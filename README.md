@@ -7,4 +7,4 @@ Implementing Polymorphism in Java :
         Method Overriding
         Usage of Super keyword
         Runtime Polymorphism
-        Checking if static members of a class can be overridden
+        Checking if Static methods can be overridden
