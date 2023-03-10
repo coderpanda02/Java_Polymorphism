@@ -1,7 +1,7 @@
 package java_polymorphism;
 
-//Method Overloading or Compile Time Polymorphism -> 
-//determines which method to call at compile time
+//Method Overloading or Compile Time Polymorphism -> determines which method to call at compile time
+
 
 public class Method_Overloading {
 	
