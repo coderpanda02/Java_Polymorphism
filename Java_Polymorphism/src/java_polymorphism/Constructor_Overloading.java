@@ -1,7 +1,7 @@
 package java_polymorphism;
 
-//Overloading is a process to implement Polymorphism in java
-//( Constructor overloading, Method overloading )
+//Overloading is a process to implement Polymorphism in java ( Constructor overloading, Method overloading )
+
 
 public class Constructor_Overloading {
 	
