@@ -1,7 +1,7 @@
 package java_polymorphism;
 
-// Runtime Polymorphism or Dynamic Method Dispatch -> resolving which method to call
-// at runtime by the type of object assigned to the Base class reference.
+// Runtime Polymorphism or Dynamic Method Dispatch -> resolving which method to call at runtime by the type of object assigned to the Base class reference.
+
 
 class Shape{
 	int l;
